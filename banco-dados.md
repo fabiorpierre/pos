@@ -17,6 +17,8 @@ Um usuário pode realizar diversas compras.
 
 Toda compra possui um pedido, todo pedido possui um carrinho e todo carrinho passa a existir quando ao menos um produto é selecionado.
 
-Uma compra deve e pode ter um único carrinho.
+Uma compra deve e pode ter um único pedido.
+
+Um carrinho pode conter n produtos.
 
 Para cada produto são persistidos informações como código do produto, descrição do produto, valor de custo, valor de venda e quantidade no estoque.
