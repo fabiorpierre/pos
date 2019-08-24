@@ -15,6 +15,8 @@ O e-commerce armazena diversos produtos e cada produto está relacionado a uma c
 
 Um usuário pode realizar diversas compras.
 
+Toda compra possui um pedido, todo pedido possui um carrinho e todo carrinho passa a existir quando ao menos um produto é selecionado.
+
 Uma compra deve e pode ter um único carrinho.
 
 Cada compra passa a existir quando há, pelo menos, um produto em seu carrinho.
