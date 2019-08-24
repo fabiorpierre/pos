@@ -19,8 +19,4 @@ Toda compra possui um pedido, todo pedido possui um carrinho e todo carrinho pas
 
 Uma compra deve e pode ter um único carrinho.
 
-Cada compra passa a existir quando há, pelo menos, um produto em seu carrinho.
-
-Um carrinho pode conter n produtos.
-
 Para cada produto são persistidos informações como código do produto, descrição do produto, valor de custo, valor de venda e quantidade no estoque.
